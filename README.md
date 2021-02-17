@@ -8,7 +8,7 @@ While issuing a book or periodical, following conditions should be fulfilled: Th
 
 **ENTITY – RELATIONSHIP DIAGRAM**
 
-![](RackMultipart20210217-4-1y7nb0x_html_1c0c714952295008.gif)
+![](Entity_relationship_diagram.png)
 
 **TABLE DESIGN (DATA DICTIONARY)**
 
